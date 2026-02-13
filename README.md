@@ -1,65 +1,66 @@
-# data_analyst_jobs
-Resumo de dados de aplicativos de emprego de uma agência.
+📊 Análise de Aplicações para Vagas de Data Analyst – 2023
+📌 Contexto
 
-**Contexto do Projeto**
+Este projeto simula a atuação de um Analista de Dados em uma agência de recrutamento especializada em vagas na área de Análise de Dados. A agência coletou informações sobre o volume mensal de candidaturas recebidas ao longo de um ano, com o objetivo de otimizar o processamento de aplicações e compreender o comportamento da demanda.
 
-Neste projeto, atuei como Analista de Dados em uma agência de recrutamento especializada em conectar profissionais qualificados a vagas na área de Análise de Dados. A agência coletou informações sobre os aplicativos recebidos ao longo de um ano para vagas publicadas em seu site. O objetivo foi otimizar o processamento das candidaturas por meio da organização e análise dos dados históricos.
+🎯 Objetivo da Análise
 
-**Objetivo**
+Responder às seguintes perguntas de negócio:
 
-Resumir e analisar os dados de aplicativos de emprego para responder às seguintes perguntas de negócio:
+Qual foi o número total de aplicações recebidas no ano?
 
-1- Qual foi o número total de aplicativos recebidos por mês?
+Qual foi o volume mensal de aplicações?
 
-2- Quantos aplicativos foram recebidos no total no ano?
+Em quais meses ocorreram o maior e o menor número de candidaturas?
 
-3- Em quais meses ocorreram o maior e o menor volume de aplicativos?
+Qual foi a média mensal de aplicações?
 
-4- Qual foi a média mensal de aplicativos recebidos?
+Houve indícios de sazonalidade ao longo do ano?
 
-**Ferramentas Utilizadas**
+📈 Resultados Obtidos
 
--Microsoft Excel
+Total anual de aplicações: 32.596
 
--Funções de planilha (SOMA, MÉDIA, MÍNIMO, MÁXIMO)
+Média mensal: 2.716 aplicações
 
--Tabela de resumo personalizada
+Maior volume registrado: Julho (3.138 aplicações)
 
--Organização e padronização de dados
+Menor volume registrado: Fevereiro (2.312 aplicações)
 
-**Etapas do Processo**
+🔎 Análise dos Dados
 
--Exploração e compreensão da base de dados.
+Observa-se um crescimento progressivo no número de aplicações entre janeiro e julho, culminando no pico anual em julho. Esse comportamento pode indicar maior movimentação no mercado de trabalho no meio do ano.
 
--Organização dos registros por mês.
+Após julho, nota-se uma tendência de queda gradual até novembro, seguida de leve recuperação em dezembro.
 
--Aplicação de funções para cálculo de:
--Total anual de aplicativos
--Total mensal
--Média mensal
+Ao comparar os valores mensais com a média anual (2.716 aplicações), verifica-se que:
 
--Identificação do maior e menor volume mensal
+Os meses de maio a outubro ficaram acima da média.
 
--Criação de tabela-resumo consolidada para facilitar a visualização dos resultados.
+Os meses de janeiro a abril, além de novembro e dezembro, ficaram abaixo da média.
 
-**Principais Resultados**
+Esse padrão sugere possível sazonalidade nas candidaturas, com maior volume no segundo e terceiro trimestres do ano.
 
--Identificação de padrões sazonais no volume de candidaturas.
+🛠 Técnicas Utilizadas
 
--Determinação do mês com maior volume de aplicações.
+Organização e padronização de dados
 
--Identificação do mês com menor volume de aplicações.
+Cálculo de métricas (Total, Mínimo, Máximo e Média)
 
--Cálculo da média mensal de recebimento de aplicativos.
+Classificação condicional (Acima/Abaixo da média)
 
--Consolidação das informações para apoiar decisões estratégicas da agência.
+Visualização por meio de gráfico de colunas
 
-**Habilidades Demonstradas**
+Interpretação de tendências
 
--Manipulação e organização de dados
+💡 Conclusão
 
--Uso de funções analíticas em planilhas
+A análise permitiu identificar padrões relevantes no comportamento das candidaturas ao longo do ano, fornecendo informações estratégicas que podem auxiliar a agência na:
 
--Interpretação de dados para tomada de decisão
+Alocação de recursos operacionais
 
--Estruturação de relatórios claros e objetivos
+Planejamento de campanhas de divulgação
+
+Antecipação de períodos de maior demanda
+
+Este projeto demonstra habilidades fundamentais de análise exploratória de dados, uso de funções em planilhas e interpretação de métricas para apoio à tomada de decisão.
